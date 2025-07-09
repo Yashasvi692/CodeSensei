@@ -1,0 +1,4 @@
+transformers
+accelerate
+gradio           # if using Spaces/web UI
+huggingface_hub
