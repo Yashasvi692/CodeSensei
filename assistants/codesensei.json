@@ -1,0 +1,9 @@
+{
+  "name": "CodeSensei",
+  "model": "bigcode/starcoder",
+  "system_prompt_path": "prompts/system_prompt.txt",
+  "tools": {
+    "code_interpreter": true,
+    "memory": false
+  }
+}
